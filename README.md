@@ -21,3 +21,9 @@ $ sudo apt-get enjoy!
 | Name | Website |
 | ------ | ------ |
 | Google | [Google.com](https://www.google.com "Google's Homepage") |
+
+# Additional content
+
+ - This content was added using Pycharm Community
+ - Given it's inbuilt Markdown editor, it makes this so easy
+ - Hack the planet!
