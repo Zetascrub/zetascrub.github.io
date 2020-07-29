@@ -21,6 +21,7 @@ $ sudo apt-get enjoy!
 | Name | Website |
 | ------ | ------ |
 | Google | [Google.com](https://www.google.com "Google's Homepage") |
+| Writeups | [Hackthebox](/Hackthebox/README.md "Hackthebox Writeups") |
 
 # Additional content
 
