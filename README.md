@@ -20,6 +20,4 @@ $ sudo apt-get enjoy!
 
 | Name | Website |
 | ------ | ------ |
-| Dropbox | [wwww.dropbox.com][PlDb] |
-| GitHub | [www.github.com][PlGh] |
-| Google Drive | [www.drive.google.com][PlGd] |
+| Google | [Google.com](https://www.google.com "Google's Homepage") |
