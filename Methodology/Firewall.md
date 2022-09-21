@@ -1,0 +1,16 @@
+- [ ]  Locate the Firewall
+- [ ]  Conduct a traceroute to identify the network range
+- [ ]  Port Scan the firewall
+- [ ]  Grab the Banner
+- [ ]  Create Custom packets and look for firewall responses
+- [ ]  Test Access Control Enumeration
+- [ ]  Test to identify Firewall architecture
+- [ ]  Test Firewall Policy
+- [ ]  Test Firewall Using the Firewalk Tool
+- [ ]  Test for Port Redirection
+- [ ]  Test the firewall from both sides
+- [ ]  Test Covert Channels
+- [ ]  Perform a Covert Firewall Test From the Outside
+- [ ]  Test HTTP Tunneling
+- [ ]  Test Firewall-specific vulnerabilities
+- [ ]  Document Everything
