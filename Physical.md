@@ -1,7 +1,3 @@
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 #todo/methodology/physical
 - [ ] Refine
 # Prerequisites
@@ -206,3 +202,9 @@ While unlikely to really help, it's possible to listen to radio chatter for pote
 
 ## Drop Box
 A device that can be plugged into the network which calls back to a C2 server, allowing for remote testing.
+
+
+# Build settings
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
