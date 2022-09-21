@@ -4,4 +4,4 @@ This site will be where I upload notes, methodologies and demonstrate projects.
 | Name | 
 | ----------------------------------------------------- |
 | [Writeups](/Writeups/README.md "Writeups")  |
-| [Methodologies](/Methodologies/README.md "Methedologies")|
+| [Methodology](/Methodology/README.md "Methodology")|
